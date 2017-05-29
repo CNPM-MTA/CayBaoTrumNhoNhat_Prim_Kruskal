@@ -1,0 +1,12 @@
+E:\HOC_KY_6\PTTKGT\BaiTap\CayBaoTrumNhoNhat\CayBaoTrumNhoNhat\CayBaoTrumNhoNhat\bin\Debug\CayBaoTrumNhoNhat.exe.config
+E:\HOC_KY_6\PTTKGT\BaiTap\CayBaoTrumNhoNhat\CayBaoTrumNhoNhat\CayBaoTrumNhoNhat\bin\Debug\CayBaoTrumNhoNhat.exe
+E:\HOC_KY_6\PTTKGT\BaiTap\CayBaoTrumNhoNhat\CayBaoTrumNhoNhat\CayBaoTrumNhoNhat\bin\Debug\CayBaoTrumNhoNhat.pdb
+E:\HOC_KY_6\PTTKGT\BaiTap\CayBaoTrumNhoNhat\CayBaoTrumNhoNhat\CayBaoTrumNhoNhat\obj\Debug\CayBaoTrumNhoNhat.exe
+E:\HOC_KY_6\PTTKGT\BaiTap\CayBaoTrumNhoNhat\CayBaoTrumNhoNhat\CayBaoTrumNhoNhat\obj\Debug\CayBaoTrumNhoNhat.pdb
+E:\HOC_KY_6\PTTKGT\BaiTap\CayBaoTrumNhoNhat\CayBaoTrumNhoNhat\CayBaoTrumNhoNhat\obj\Debug\MinimalSpanningTree.csprojResolveAssemblyReference.cache
+E:\HOC_KY_6\PTTKGT\BaiTap\MiniSpanningTree\MiniSpanningTree\CayBaoTrumNhoNhat\bin\Debug\CayBaoTrumNhoNhat.exe.config
+E:\HOC_KY_6\PTTKGT\BaiTap\MiniSpanningTree\MiniSpanningTree\CayBaoTrumNhoNhat\obj\Debug\CayBaoTrumNhoNhat.exe
+E:\HOC_KY_6\PTTKGT\BaiTap\MiniSpanningTree\MiniSpanningTree\CayBaoTrumNhoNhat\obj\Debug\CayBaoTrumNhoNhat.pdb
+E:\HOC_KY_6\PTTKGT\BaiTap\MiniSpanningTree\MiniSpanningTree\CayBaoTrumNhoNhat\bin\Debug\CayBaoTrumNhoNhat.exe
+E:\HOC_KY_6\PTTKGT\BaiTap\MiniSpanningTree\MiniSpanningTree\CayBaoTrumNhoNhat\bin\Debug\CayBaoTrumNhoNhat.pdb
+E:\HOC_KY_6\PTTKGT\BaiTap\MiniSpanningTree\MiniSpanningTree\CayBaoTrumNhoNhat\obj\Debug\MinimalSpanningTree.csprojResolveAssemblyReference.cache
